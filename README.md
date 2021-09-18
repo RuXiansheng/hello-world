@@ -1,2 +1,3 @@
 # hello-world
-my first repositiory on github
+my first repositiory on GITHUB
+I Love ☕ 👨‍👧
